@@ -1,0 +1,19 @@
+[project]
+name = "pdfautomation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "chinmay", email = "chinmaybhatt26@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "reportlab>=5.0.1",
+]
+
+[project.scripts]
+pdfautomation = "pdfautomation:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
