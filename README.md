@@ -6,7 +6,7 @@ customer information, line items, tax, totals, payment notes, and an optional
 logo.
 
 ## Features
-
+ 
 - A4 invoice layout
 - Company and customer details
 - Itemized billing table
