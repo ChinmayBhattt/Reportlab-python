@@ -1,7 +1,7 @@
 # ReportLab Invoice PDF Generator
 
 A small Python project that generates a formatted invoice PDF with
-[ReportLab](https://www.reportlab.com/). The invoice includes company details,
+[ReportLab](https://www.reportlab.com/). The invoice includes company details, 
 customer information, line items, tax, totals, payment notes, and an optional
 logo.
 
